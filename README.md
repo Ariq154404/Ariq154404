@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariq Rahman</h1>
-<h3 align="center">I am looking for an internship in the field of data science</h3>
+<h3 align="center">I am looking for an full time roles in the field of data science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariq154404&label=Profile%20views&color=0e75b6&style=flat" alt="ariq154404" /> </p>
 
