@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **applied machine learning in aws**
+- 🌱 I’m currently learning **Generative AI applications and LLM training**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ariq154404](https://github.com/Ariq154404)
 
