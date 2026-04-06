@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariq Rahman</h1>
-<h3 align="center">I am looking for an full time roles in the field of data science/data_engineering roles</h3>
+<h3 align="center">I am looking for an full time roles in the field of Data Engineering/Analytics Engineering roles</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariq154404&label=Profile%20views&color=0e75b6&style=flat" alt="ariq154404" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Generative AI applications and LLM training**
+- 🌱 I’m currently studyung **Designing Data-Intensive Applications Book**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ariq154404](https://github.com/Ariq154404)
 
-- 📫 How to reach me **rahman3d@uwindsor.ca**
+- 📫 How to reach me **ariq913@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ariqrahman/](https://www.linkedin.com/in/ariqrahman/)
 
